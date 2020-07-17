@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I am Gabriel Villalonga,a CS + Videogame Development student. You will find here everything I make except for the private stuff 😱.
 
 Things about me:
-- I am 20, he/him.
-- I program usually in Javascript, Go or C, but you will also find me touching a big variety of languages like Rust or Java!
-- I am really interested in compilers, networks, back-end, applications... Everything you will throw at me!
-- I am in my 4th year of university.
+- 👋 I am 20, he/him.
+- 💻 I program usually in Javascript, Go or C, but you will also find me touching a big variety of languages like Rust or Java!
+- 📲 I am really interested in compilers, operating systems, networks, back-end, applications... Everything you will throw at me!
+- 📐 I am in my 4th year of university.
 
 
 
