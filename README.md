@@ -27,9 +27,6 @@ Things about me:
 
 Photos from some projects:
 
-<img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/1.png" alt="" width="400" height="220" />
-
-
-<img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/chat-it.png" alt="" width="600" height="390" />
+<img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/1.png" alt="" width="400" height="220" />   <img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/chat-it.png" alt="" width="400" height="220" />
 
 
