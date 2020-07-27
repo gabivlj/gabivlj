@@ -25,8 +25,4 @@ Things about me:
 
 
 
-Photos from some projects:
-
-<img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/1.png" alt="" width="400" height="220" />   <img src="https://raw.githubusercontent.com/gabivlj/gabivlj/master/chat-it.png" alt="" width="400" height="220" />
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=gabivlj&show_icons=true&theme=dracula)
