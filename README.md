@@ -29,4 +29,4 @@ Things about me:
 
 Languages that I publicly contributed in the most:
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabivlj&hide=css,c%23&layout=compact&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabivlj&hide=css,c%23&theme=dracula)
