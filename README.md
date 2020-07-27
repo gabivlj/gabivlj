@@ -26,3 +26,7 @@ Things about me:
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabivlj&show_icons=true&theme=dracula)
+
+Languages that I publicly contributed in the most:
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabivlj&hide=css,c%23&layout=compact&theme=dracula)
