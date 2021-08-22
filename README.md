@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gabriel Villalonga,a CS + Videogame Development student. You will find here everything I make except for the private stuff 😱.
+I am Gabriel Villalonga, a CS + Videogame Development student.
 
 Things about me:
-- 👋 I am 21, he/him.
+- 👋 I am 22, he/him.
 - 💻 I program usually in Javascript, Go or C, but you will also find me touching a big variety of languages like Rust or Java!
 - 📲 I am really interested in compilers, operating systems, networks, back-end, applications... Everything you will throw at me!
-- 📐 I am in my 4th year of university.
+- 📐 I am in my 5th and last year of university.
 
 
 
