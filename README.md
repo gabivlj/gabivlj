@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gabriel Villalonga, a CS + Videogame Development student.
+I am Gabriel Villalonga, a Computer Science + Videogame Development graduate.
 
 Things about me:
 - 👋 I am 22, he/him.
