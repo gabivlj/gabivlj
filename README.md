@@ -19,6 +19,7 @@ I am Gabriel Villalonga, a Computer Science + Videogame Development graduate.
 
 Things about me:
 - 👋 I am 23, he/him.
+- I'm currently working @Cloudflare!
 - 💻 I program usually in Javascript, Go or C, but you will also find me touching a big variety of languages like Rust or Java!
 - 📲 I am really interested in compilers, operating systems, networks, back-end, applications... Everything you will throw at me!
 - I just graduated!
