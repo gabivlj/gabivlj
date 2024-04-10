@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Systems Engineer @Cloudflare. I usually work in Go on containers and distributed systems.
-I love working on software that runs everywhere in the edge, or in efficient developer tools that make their lifes easier!
+I am a Systems Engineer @Cloudflare. I mostly work in containers and distributed systems.
